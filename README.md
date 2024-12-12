@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/sirtinashe](github.com/sirtinashe)
 
-- 💬 Ask me about **Python , Flutter and Java**
+- 💬 Ask me about **Python , Flutter and Java , Machine Learning and Data Science**
 
 - 📫 How to reach me **tinashemashaya18@gmail.com**
 
