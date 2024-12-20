@@ -29,7 +29,6 @@
 WhatsApp Banking enables secure and convenient banking directly within WhatsApp, offering features like instant fund transfers, real-time balance inquiries, bill payments, and transaction history access. Built with Spring Boot, secured by JWT and API keys, and powered by Rasa NLU, it provides a seamless, chat-based banking experience.  
 
 ---  
-# Projects Portfolio  
 
 ![Customer Inquiry Chatbot Demo](https://firebasestorage.googleapis.com/v0/b/intellixbot-jqcj.appspot.com/o/tinashe-portfolio%2FLkv1UMZTXBjZ_1080_2160.png?alt=media&token=9559564d-91c5-4c06-9b00-3d7e0136805f)  
 
@@ -68,6 +67,18 @@ The Jugaad Wallet is an innovative digital wallet designed to simplify financial
 - Instant money transfers.  
 - Bill payments and expense tracking.  
 - Secure and easy-to-use interface.  
+
+---  
+
+## Yala Loan Application  
+![Yala Loan Application Banner](https://firebasestorage.googleapis.com/v0/b/intellixbot-jqcj.appspot.com/o/tinashe-portfolio%2Fyala.png?alt=media&token=58636fa4-1a62-44ff-b2e6-
+
+Yala is a user-friendly loan application app designed to streamline the process of applying for loans. It allows users to easily apply for personal loans, check loan eligibility, track application status, and manage loan repayments, all through a simple and secure interface.  
+
+**Key Features**:  
+- Quick and easy loan application process.  
+- Loan eligibility check and tracking.  
+- Secure and simple repayment management.  
 
 ---  
 
