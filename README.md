@@ -70,6 +70,23 @@ The Jugaad Wallet is an innovative digital wallet designed to simplify financial
 
 ---  
 
+
+![WhatsApp Platform for Payments Banner](https://firebasestorage.googleapis.com/v0/b/intellixbot-jqcj.appspot.com/o/tinashe-portfolio%2Fsnapedit_1734704754951.jpg?alt=media&token=01b2cab5-fa68-4fff-96a7-170bdc0f3175)
+
+## WhatsApp Payment Platform
+
+This platform enables users to pay bills, purchase airtime, buy data bundles, and pay for ZESA services directly through WhatsApp. Integrated with **ZimSwitch** and **EcoCash**, it provides a seamless and secure way to make payments for everyday services.
+
+**Key Features**:
+
+- **Bill Payments**: Pay utility bills like electricity, water, and more easily through WhatsApp.
+- **Airtime & Bundles**: Instantly purchase airtime and data bundles for multiple mobile networks.
+- **ZESA Payments**: Make payments for ZESA services directly via WhatsApp.
+- **ZimSwitch & EcoCash Integration**: Secure payments via ZimSwitch and EcoCash, popular payment platforms in Zimbabwe.
+- **Secure Transactions**: All payments are processed securely, ensuring your data is protected.
+
+---
+
 ## Yala Loan Application  
 ![Yala Loan Application Banner](https://firebasestorage.googleapis.com/v0/b/intellixbot-jqcj.appspot.com/o/tinashe-portfolio%2Fyala.png?alt=media&token=58636fa4-1a62-44ff-b2e6-4199c1c497da)
 
