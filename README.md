@@ -71,7 +71,7 @@ The Jugaad Wallet is an innovative digital wallet designed to simplify financial
 ---  
 
 ## Yala Loan Application  
-![Yala Loan Application Banner](https://firebasestorage.googleapis.com/v0/b/intellixbot-jqcj.appspot.com/o/tinashe-portfolio%2Fyala.png?alt=media&token=58636fa4-1a62-44ff-b2e6-
+![Yala Loan Application Banner](https://firebasestorage.googleapis.com/v0/b/intellixbot-jqcj.appspot.com/o/tinashe-portfolio%2Fyala.png?alt=media&token=58636fa4-1a62-44ff-b2e6-4199c1c497da)
 
 Yala is a user-friendly loan application app designed to streamline the process of applying for loans. It allows users to easily apply for personal loans, check loan eligibility, track application status, and manage loan repayments, all through a simple and secure interface.  
 
