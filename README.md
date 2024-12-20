@@ -29,8 +29,20 @@
 WhatsApp Banking enables secure and convenient banking directly within WhatsApp, offering features like instant fund transfers, real-time balance inquiries, bill payments, and transaction history access. Built with Spring Boot, secured by JWT and API keys, and powered by Rasa NLU, it provides a seamless, chat-based banking experience.  
 
 ---  
+# Projects Portfolio  
 
-Thank you for exploring the Projects Portfolio!  
+![Customer Inquiry Chatbot Demo](https://firebasestorage.googleapis.com/v0/b/intellixbot-jqcj.appspot.com/o/tinashe-portfolio%2FLkv1UMZTXBjZ_1080_2160.png?alt=media&token=9559564d-91c5-4c06-9b00-3d7e0136805f)  
+
+## Customer Inquiry Chatbot  
+
+This demo showcases a powerful customer inquiry chatbot built using the Mistral 7B model. It provides real-time, accurate, and conversational responses to customer queries, offering seamless interaction for a variety of use cases such as customer support, FAQs, and product information retrieval.  
+
+**Key Features**:  
+- Natural language understanding powered by Mistral 7B.  
+- Real-time responses to customer queries.  
+- Adaptable for various industries and use cases.  
+
+---  
 
 
 
