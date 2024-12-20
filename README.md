@@ -22,6 +22,22 @@
 
 # Projects Portfolio  
 
+![EnviroGas Truck Application Banner](https://firebasestorage.googleapis.com/v0/b/intellixbot-jqcj.appspot.com/o/tinashe-portfolio%2FFsXwAPkQUnQb_1284_2778.png?alt=media&token=af3b6f54-6d8e-49d2-802d-8470c0b71115)
+
+## EnviroGas Truck Application
+
+The EnviroGas Truck Application is a mobile app designed to streamline and optimize the operations of gas delivery trucks. It allows for efficient route management, real-time tracking, and seamless communication between drivers and dispatchers, ensuring timely deliveries and improving overall logistics for gas distribution.
+
+**Key Features**:
+
+- **Route Optimization**: Plan the most efficient delivery routes to save time and fuel.
+- **Real-Time Tracking**: Track trucks in real-time to ensure deliveries are on schedule.
+- **Driver-Dispatcher Communication**: Facilitates easy communication between drivers and dispatchers.
+- **Delivery Management**: Manage and update delivery statuses, including successful and pending deliveries.
+- **User-Friendly Interface**: Designed for ease of use, even in fast-paced delivery environments.
+
+---
+
 ![WhatsApp Banking Banner](https://firebasestorage.googleapis.com/v0/b/intellixbot-jqcj.appspot.com/o/tinashe-portfolio%2FMKV1CitUAlh6_1024_500.png?alt=media&token=8775244c-a4ec-4895-b131-72efb897c6d1)  
 
 ## WhatsApp Banking  
