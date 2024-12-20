@@ -58,7 +58,18 @@ The PayZim e-Wallet is a secure and user-friendly digital wallet designed for se
 - Secure authentication and transaction history tracking.  
 
 ---  
+![Jugaad Wallet Banner](https://firebasestorage.googleapis.com/v0/b/intellixbot-jqcj.appspot.com/o/tinashe-portfolio%2Fjugaad_app.png?alt=media&token=72a641be-7710-48ce-a83b-be7b66215dc1)  
 
+## Jugaad Wallet  
+
+The Jugaad Wallet is an innovative digital wallet designed to simplify financial transactions. It enables users to send and receive money, pay bills, and manage expenses efficiently, providing a reliable solution for everyday financial needs.  
+
+**Key Features**:  
+- Instant money transfers.  
+- Bill payments and expense tracking.  
+- Secure and easy-to-use interface.  
+
+---  
 
 
 <h3 align="left">Languages and Tools:</h3>
