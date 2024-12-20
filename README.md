@@ -26,45 +26,12 @@
 
 ## WhatsApp Banking  
 
-### About  
+WhatsApp Banking enables secure and convenient banking directly within WhatsApp, offering features like instant fund transfers, real-time balance inquiries, bill payments, and transaction history access. Built with Spring Boot, secured by JWT and API keys, and powered by Rasa NLU, it provides a seamless, chat-based banking experience.  
 
-Welcome to WhatsApp Banking! This project enables seamless banking services directly within WhatsApp. It is designed to provide users with convenient access to essential banking operations such as fund transfers, balance inquiries, bill payments, and more—all through an intuitive and secure chat interface.  
+---  
 
-### Features  
+Thank you for exploring the Projects Portfolio!  
 
-- **Fund Transfers**: Send money instantly to other accounts.  
-- **Balance Inquiry**: Check your account balance on the go.  
-- **Bill Payments**: Pay bills directly via WhatsApp.  
-- **Secure Authentication**: Multi-layered security with token-based access.  
-- **Transaction History**: View and track past transactions in a conversation-friendly format.  
-
-### Getting Started  
-
-#### Prerequisites  
-
-- A valid WhatsApp account.  
-- Registration with your bank's WhatsApp banking service.  
-
-#### How to Use  
-
-1. Save the bank's WhatsApp number in your phone.  
-2. Send a message like "Hi" to start interacting with the banking assistant.  
-3. Follow the menu prompts to complete your transactions.  
-
-### Technologies  
-
-- **Backend**: Built with Spring Boot for secure and efficient processing.  
-- **API**: Protected with JWT and API keys.  
-- **Integration**: Rasa NLU for natural language understanding.  
-
-### Security  
-
-- End-to-End Encryption for chat communication.  
-- Token-based authentication to ensure unauthorized access is prevented.  
-
----
-
-Thank you for exploring the Projects Portfolio! For feedback or inquiries, please contact us at [support@banking.com](mailto:support@banking.com).  
 
 
 <h3 align="left">Languages and Tools:</h3>
