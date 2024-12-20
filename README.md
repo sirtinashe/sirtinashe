@@ -44,6 +44,21 @@ This demo showcases a powerful customer inquiry chatbot built using the Mistral 
 
 ---  
 
+# Projects Portfolio  
+
+![PayZim e-Wallet Banner](https://firebasestorage.googleapis.com/v0/b/intellixbot-jqcj.appspot.com/o/tinashe-portfolio%2FHoz3k64Ime1C_1024_500.png?alt=media&token=3bf25667-7771-42d2-a6bd-854ecfbb6fa2)  
+
+## PayZim e-Wallet  
+
+The PayZim e-Wallet is a secure and user-friendly digital wallet designed for seamless transactions. It allows users to send and receive money, pay bills, and manage their finances effortlessly, making financial services more accessible and convenient.  
+
+**Key Features**:  
+- Instant money transfers.  
+- Bill payments and airtime purchases.  
+- Secure authentication and transaction history tracking.  
+
+---  
+
 
 
 <h3 align="left">Languages and Tools:</h3>
