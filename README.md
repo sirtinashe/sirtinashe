@@ -43,7 +43,21 @@ This demo showcases a powerful customer inquiry chatbot built using the Mistral 
 
 ---  
 
-# Projects Portfolio  
+![eLearning Platform for Schools Banner](https://firebasestorage.googleapis.com/v0/b/intellixbot-jqcj.appspot.com/o/tinashe-portfolio%2FWhatsApp%20Image%202024-12-20%20at%204.41.07%20PM.jpeg?alt=media&token=33e113f1-05d0-4a44-a46e-e7b9cacb568a)
+
+## eLearning Platform for Schools
+
+The eLearning platform for schools is a comprehensive educational tool designed to facilitate learning and communication between students, teachers, and administrators. It provides a digital classroom experience, making it easy for educators to upload materials, manage assignments, and engage with students remotely.
+
+**Key Features**:
+
+- **Course Management**: Teachers can create, manage, and update courses and assignments easily.
+- **Student Engagement**: Students can access lessons, submit assignments, and track progress in real-time.
+- **Communication Tools**: Includes messaging and announcement features for smooth interaction between students and teachers.
+- **Assessments and Feedback**: Teachers can create quizzes and exams, providing instant feedback to students.
+- **User-Friendly Interface**: Designed for ease of use, ensuring both educators and students can navigate effortlessly.
+
+---
 
 ![PayZim e-Wallet Banner](https://firebasestorage.googleapis.com/v0/b/intellixbot-jqcj.appspot.com/o/tinashe-portfolio%2FHoz3k64Ime1C_1024_500.png?alt=media&token=3bf25667-7771-42d2-a6bd-854ecfbb6fa2)  
 
